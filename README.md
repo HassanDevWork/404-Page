@@ -26,9 +26,9 @@
 
 ## Table of Contents
 
-- [Overview] (#overview)
-- [Acknowledgements] (#acknowledgements)
-- [Contact] (#contact)
+- [Overview] (overview)
+- [Acknowledgements] (acknowledgements)
+- [Contact] (contact)
 
 <!-- OVERVIEW -->
 
