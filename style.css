@@ -27,7 +27,7 @@ header {
   box-sizing: border-box;
 }
 
-.grid-tow-column {
+.page-content {
   display: grid;
   grid-template-columns: 1fr 1fr;
   column-gap: 20px;
@@ -44,10 +44,9 @@ header {
     box-sizing: border-box;
   }
 
-  .grid-tow-column {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
+  .page-content {
+    grid-template-columns: auto;
+    grid-template-rows: auto auto;
   }
 }
 
