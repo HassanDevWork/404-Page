@@ -26,9 +26,9 @@
 
 ## Table of Contents
 
-- [Overview] This project is demo for 404 Page
-  - [Built With] Pure HTML & CSS
-- [Contact] Contact Me on hassandevwork@outlook.com
+- [Overview] (#overview)
+- [Acknowledgements] (#acknowledgements)
+- [Contact] (#contact)
 
 <!-- OVERVIEW -->
 
@@ -57,3 +57,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - The image of broken robot is From [Freepik](https://www.freepik.com/free-vector/oops-404-error-with-broken-robot-concept-illustration_13315300.htm#page=1&query=404&position=4)
+
+## Contact
+
+- Email: hassandevwork@outlook.com
